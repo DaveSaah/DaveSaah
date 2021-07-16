@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @David-Saah
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python and other languages
-- 💞️ I’m looking to collaborate on scientific projects especially 😁
-- 📫 How to reach me: Contact on dasorange.hope@gmail.com
+<a href="https://github.com/David-Saah"><img src="https://github-readme-stats.vercel.app/api?username=David-Saah&count_private=true" height="180" /></a> <a href="https://github.com/David-Saah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Saah&langs_count=8&hide=java&layout=compact" height="180" /></a>
+
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Saah&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
