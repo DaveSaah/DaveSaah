@@ -1,5 +1,6 @@
-<a href="https://github.com/David-Saah"><img src="https://github-readme-stats.vercel.app/api?username=David-Saah&count_private=true&show_icons=true&theme=radical" height="180" /></a> <a href="https://github.com/David-Saah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Saah&langs_count=8&hide=java&layout=compact" height="180" /></a>
-
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=David-Saah&count_private=true&show_icons=true&theme=radical" height="180" /></a> <a href="https://github.com/David-Saah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Saah&langs_count=8&hide=java&layout=compact" height="180" />
+-->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Saah&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
