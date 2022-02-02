@@ -10,6 +10,12 @@
   
 I love to solve problems using code.
 
+**Languages:** Python, C++, Javascript. HTML, CSS, jQuery \
+**Lib/Frameworks:** Bootstrap, React Js, Flask, Material UI \
+**Platform:** Linux, Firebase \
+**Databases:** SQL, Firestore \
+**Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) \
+**Currently Studying:** ![Octave](https://img.shields.io/badge/OCTAVE--octave-darkblue?style=flat&logo=octave&logoColor=fcd683) ![Julia](https://img.shields.io/badge/Julia-orange?style=flat&logo=julia&logoColor=white) 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DaveSaah&hide=issues&count_private=true&show_icons=true&theme=radical"/></a> <a href="https://github.com/DaveSaah"> \
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveSaah&langs_count=8&layout=compact"/></a>
