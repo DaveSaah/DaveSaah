@@ -4,14 +4,14 @@
 
 ## Hello! I'm David Saah. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/DaveSaah/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/DaveSaah/count.svg)
 
 [![GitHub DaveSaah](https://img.shields.io/github/followers/DaveSaah?label=follow&style=social)](https://github.com/DaveSaah)
 [![Linkedin: David Saah](https://img.shields.io/badge/David%20Saah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davessah/)](https://www.linkedin.com/in/davesaah/)
 [![Twitter: David Saah](https://img.shields.io/twitter/follow/dave_saah?style=social)](https://twitter.com/dave_saah)
  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=18&duration=7000&center=true&width=600&vCenter=true&lines=A+curious+learner!;I+love+to+solve+problems+using+code.;I+have+high+interest+in+scientific+computing.">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=18&duration=7000&center=true&width=600&vCenter=true&lines=A+curious+learner!;I+love+to+solve+problems+using+code.;I+have+a+high+interest+in+scientific+computing.">
 </p>
 
 -----
