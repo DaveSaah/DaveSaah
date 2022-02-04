@@ -21,7 +21,7 @@
 **Platform:** ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black) ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=SUSE&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) \
 **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-0059b3?style=flat&logo=mysql&logoColor=white)  ![Firestore](https://img.shields.io/badge/Firestore-cc8800?style=flat&logo=firestore&logoColor=white) \
 **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) \
-**Currently Studying:** ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=b38600) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) 
+**Currently Studying:** ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=b38600) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 -----
 
