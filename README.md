@@ -25,5 +25,11 @@
 
 -----
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaveSaah&hide=issues&count_private=true&show_icons=true&theme=radical"/></a> <a href="https://github.com/DaveSaah"> \
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveSaah&langs_count=8&layout=compact"/></a>
+<div>
+ <span style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaveSaah&count_private=true&show_icons=true&theme=radical" />
+ </span>
+ <span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveSaah&langs_count=8&layout=compact" />
+ </span>
+</div>
