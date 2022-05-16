@@ -22,6 +22,7 @@
 **Databases:** ![Firestore](https://img.shields.io/badge/Firestore-cc8800?style=flat&logo=firestore&logoColor=white) \
 **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) \
 **Currently Studying:** ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=b38600)
+
 -----
 
 <div>
