@@ -16,12 +16,12 @@
 
 -----
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) \
+**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) 
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=b38600)\
 **Lib/Frameworks:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?flat&logo=bootstrap&logoColor=white) ![React Js](https://img.shields.io/badge/React-20232A?flat&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?flat&logo=flask&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white) \
 **Platform:** ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) \
-**Databases:** ![Firestore](https://img.shields.io/badge/Firestore-cc8800?style=flat&logo=firestore&logoColor=white) \
 **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) \
-**Currently Studying:** ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=b38600)
+**Currently Studying:** Data Structrues & Algorithms
 
 -----
 
