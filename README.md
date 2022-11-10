@@ -1,7 +1,3 @@
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=David-Saah&count_private=true&show_icons=true&theme=radical" height="180" /></a> <a href="https://github.com/David-Saah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Saah&langs_count=8&hide=java&layout=compact" height="180" />
--->
-
 ## Hello! I'm David Saah. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Visitor Count](https://profile-counter.glitch.me/DaveSaah/count.svg)
@@ -24,6 +20,11 @@
 **Currently Studying:** Data Structrues & Algorithms
 
 -----
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaveSaah&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveSaah&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <div>
  <span>
