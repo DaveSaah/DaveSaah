@@ -32,9 +32,7 @@
 
 ## Links
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://davesaah.hashnode.dev)
-<!-- [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/davesaah) -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davesaah)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://davesaah.hashnode.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davesaah)
 
 ## Kata Training 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)](https://www.codewars.com)
@@ -44,14 +42,17 @@
 
 - Data Structrues & Algorithms
 
----
-
-**NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.**
-
+## GitHub Stats
+ <div>
 <a href="https://github.com/DaveSaah">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DaveSaah&theme=radical" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DaveSaah&show_icons=true&theme=radical&line_height=35" alt="DaveSaah" />
 </a>
-<a href="https://github.com/DaveSaah">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DaveSaah&show_icons=true&theme=radical&line_height=27" alt="DaveSaah" />
+  </div>
+ 
+ ## Languages Used In the Last Year
+ 
+<div>
+ <a href="https://wakatime.com/@DaveSaah">
+ <img align="center" style="height: 35%; width: 40%" src="https://wakatime.com/share/@DaveSaah/9dc6a943-5bbc-400c-a4d7-15efd8cefc2b.svg" alt="Languages used in the past year"/>
 </a>
+ </div>
