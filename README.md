@@ -53,6 +53,6 @@
  
 <div>
  <a href="https://wakatime.com/@DaveSaah">
- <img src="https://wakatime.com/share/@DaveSaah/9dc6a943-5bbc-400c-a4d7-15efd8cefc2b.svg" alt="Languages used in the past year"/>
+ <img src="https://wakatime.com/share/@DaveSaah/01c3505f-150e-4591-81a7-0cce4fa0069c.svg" alt="Languages used in the past year"/>
 </a>
  </div>
