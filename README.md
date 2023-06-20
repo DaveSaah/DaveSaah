@@ -1,4 +1,4 @@
-## Hello! I'm David Saah. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello! I'm David Saah. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Visitor Count](https://profile-counter.glitch.me/DaveSaah/count.svg)
 
