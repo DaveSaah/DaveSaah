@@ -34,14 +34,6 @@
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://davesaah.hashnode.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davesaah)
 
-## Kata Training 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)](https://www.codewars.com)
-
-
-## Currently Studying
-
-- Data Structrues & Algorithms
-
 ## GitHub Stats
  <div>
 <a href="https://github.com/DaveSaah">
