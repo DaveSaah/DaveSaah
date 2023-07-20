@@ -4,7 +4,6 @@
 
 [![GitHub DaveSaah](https://img.shields.io/github/followers/DaveSaah?label=follow&style=social)](https://github.com/DaveSaah)
 [![Linkedin: David Saah](https://img.shields.io/badge/David%20Saah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davessah/)](https://www.linkedin.com/in/davesaah/)
-[![Twitter: David Saah](https://img.shields.io/twitter/follow/dave_saah?style=social)](https://twitter.com/dave_saah)
 <!--  
  ---
  
