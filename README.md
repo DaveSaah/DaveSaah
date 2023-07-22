@@ -7,7 +7,7 @@ I'm David Saah, a self-taught software engineer by day and a hacker by night.
 - 🖥️ Programming languages: Golang, JavaScript, Python.
 - 🖼️ Frameworks: Vue, Tailwind CSS, Hugo.
 - 🗣️ Human languages: English, Akan.
-- 🧰 Tools: Git, Linux, Docker, Neovim, Github.
+- 🧰 Tools: Git, Linux, Docker, Neovim, Github, Visual Studio Code.
 - 🤹 Other skills: Firebase, Bash, Fish.
 - 🫗 Archived skills: Octave, Java, React, Bootstrap CSS, Flask, Julia
 
