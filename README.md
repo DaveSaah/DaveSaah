@@ -30,7 +30,7 @@ I'm David Saah, a self-taught software engineer by day and a hacker by night.
 
 ## 🔗 Links & Socials
 
-- [LinkedIn](https//linkedin.com/in/davesaah)
+- [LinkedIn](https://linkedin.com/in/davesaah)
 - [Hashnode](https://davesaah.hashnode.dev)
 - [CodeReviewShop](https://codereviewshop.web.app)
 
