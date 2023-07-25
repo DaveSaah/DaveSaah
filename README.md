@@ -1,19 +1,20 @@
 # Hello 👋
 
-I'm David Saah, a self-taught software engineer by day and a hacker by night.
+I'm David Saah, a self-taught software engineer by day and a hacker by night. If you find me doing none, I'm probably writing articles for my [blog](https://davesaah.hashnode.dev), mentoring students on [codereviewshop](https://codereviewshop.web.app) or finding a new way of not typing `ls` in my terminal.
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: Golang, JavaScript, Python.
-- 🖼️ Frameworks: Vue, Tailwind CSS, Hugo.
-- 🗣️ Human languages: English, Akan.
-- 🧰 Tools: Git, Linux, Docker, Neovim, Github, Visual Studio Code.
-- 🤹 Other skills: Firebase, Bash, Fish.
-- 🫗 Archived skills: Octave, Java, React, Bootstrap CSS, Flask, Julia
+- 🖥️ Programming languages: Golang.
+- 🖼️ Frameworks: Tailwind CSS, Hugo.
+- 🗣️ Human languages: Twi, English.
+- 🧰 Tools: Git, Linux, Docker, Neovim, Github.
+- 🤹 Other skills: Fish, HTML/CSS, Markdown.
+- 🫗 Archived skills: Octave, Java, React, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue, Python, Firebase.
 
 ## 📖 Things I am learning about
 
-- Database and API design.
+- Database.
+- API design.
 - Data storage in a dqlite (SQL) database.
 - Computer networking.
 - Concurrency in distributed systems.
