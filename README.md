@@ -9,7 +9,7 @@ I'm David Saah, a self-taught software engineer by day and a hacker by night. If
 - 🗣️ Human languages: Twi, English.
 - 🧰 Tools: Git, Linux, Docker, Neovim, Github.
 - 🤹 Other skills: Fish, HTML/CSS, Markdown.
-- 🫗 Archived skills: Octave, Java, React, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue, Python, Firebase.
+- 🫗 Archived skills: Octave, Java, React, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue, Python, Firebase, Flutter.
 
 ## 📖 Things I am learning about
 
