@@ -13,13 +13,10 @@ I'm David Saah, a self-taught software engineer by day and a hacker by night. If
 
 ## 📖 Things I am learning about
 
-- Database.
+- Database principles.
 - API design.
-- Data storage in a dqlite (SQL) database.
 - Computer networking.
 - Concurrency in distributed systems.
-- Consensus algorithms (mostly raft).
-- Kubernetes.
 
 ## 🙃 Things I do for fun
 
