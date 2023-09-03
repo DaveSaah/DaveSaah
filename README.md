@@ -1,15 +1,9 @@
-# Hello 👋
-
-I'm David Saah, a self-taught software engineer by day and a hacker by night. If you find me doing none, I'm probably writing articles for my [blog](https://davesaah.hashnode.dev), mentoring students on [codereviewshop](https://codereviewshop.web.app) or finding a new way of not typing `ls` in my terminal.
-
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: Golang.
-- 🖼️ Frameworks: Tailwind CSS, Hugo.
-- 🗣️ Human languages: Twi, English.
-- 🧰 Tools: Git, Linux, Docker, Neovim, Github.
-- 🤹 Other skills: Fish, HTML/CSS, Markdown.
-- 🫗 Archived skills: Octave, Java, React, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue, Python, Firebase, Flutter.
+- **🖥️ Programming languages:** Golang.
+- **🧰 Tools:** Git, Linux, Docker, Neovim, Github.
+- **🤹 Other skills:** Fish, Markdown.
+- **🫗 Archived skills:** Octave, Java, React, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue, Python, Firebase, Flutter, Hugo, Tailwind CSS, HTML/CSS.
 
 ## 📖 Things I am learning about
 
@@ -17,20 +11,6 @@ I'm David Saah, a self-taught software engineer by day and a hacker by night. If
 - API design.
 - Computer networking.
 - Concurrency in distributed systems.
-
-## 🙃 Things I do for fun
-
-- Open source.
-- Writing articles.
-- Coding.
-- Playing video games.
-- Hanging out with the degens on [Discord](https://discord.gg/ThePrimeagen) and [Twitch](https://www.twitch.tv/theprimeagen).
-
-## 🔗 Links & Socials
-
-- [LinkedIn](https://linkedin.com/in/davesaah)
-- [Hashnode](https://davesaah.hashnode.dev)
-- [CodeReviewShop](https://codereviewshop.web.app)
 
 ## 🧮 Stats
 
