@@ -1,3 +1,7 @@
+## Who Am I?
+
+I am a second year undergraduate student at Ashesi University studying Computer Science. I have been an explorer of software for years. I am specialising on system-level `code`; building **backend** and **infrastructure** software.
+
 ## 🔧 Things I can do
 
 - **🖥️ Programming languages:** Golang.
