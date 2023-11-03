@@ -40,9 +40,11 @@ I am a second year undergraduate student at Ashesi University studying Computer 
 
 ## 🧮 Stats
 
-![DaveSaah's Stats](https://github-readme-stats.vercel.app/api?username=DaveSaah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![DaveSaah's Stats](https://github-readme-stats.vercel.app/api?username=DaveSaah&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaveSaah&theme=vue-dark&hide_border=true&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaveSaah&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
+
+[![DaveSaah's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaveSaah&layout=compact&theme=radical)](https://wakatime.com/@DaveSaah)
  
  ## 🧭 Languages Used In the Last Year
  
