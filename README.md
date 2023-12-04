@@ -1,6 +1,6 @@
 ## Who Am I?
 
-I am a second year undergraduate student at Ashesi University studying Computer Science. I have been an explorer of software for years. I am specialising on system-level `code`; building **backend** and **infrastructure** software. I also offer code review, tutoring and mentoring services. Check out [codereviewshop](https://codereviewshop.web.app).
+I am a second year undergraduate student at Ashesi University studying Computer Science. I have been an explorer of software for years. I am specialising on system-level `code`; building **backend** and **infrastructure** software.
 
 ## 🔧 What I Can Do
 
