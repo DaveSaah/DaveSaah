@@ -1,12 +1,13 @@
 ## Who Am I?
 
-I am a second-year undergraduate student at Ashesi University studying Computer Science. I have been an explorer of software for years. I specialise in system-level `code`, building **backend** and **infrastructure** software.
+I am a second year undergraduate student at Ashesi University studying Computer Science. I have been an explorer of software for years. I am specialising on system-level `code`; building **backend** and **infrastructure** software. I also offer code review, tutoring and mentoring services. Check out [codereviewshop](https://codereviewshop.web.app).
 
 ## 🔧 What I Can Do
 
 - **🖥️ Programming languages:** Golang.
 - **🧰 Tools:** Git, Linux, Docker, Neovim, Github.
-- **🤹 Other skills:** Bash, Markdown, Octave, Java, React js, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue js, Python, Firebase, Flutter, Hugo, Tailwind CSS, HTML/CSS.
+- **🤹 Other skills:** Bash, Markdown.
+- **🫗 Archived skills:** Octave, Java, React js, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue js, Python, Firebase, Flutter, Hugo, Tailwind CSS, HTML/CSS, SQL.
 
 ## 📖 Things I am Learning About
 
@@ -32,8 +33,8 @@ I am a second-year undergraduate student at Ashesi University studying Computer 
 - [x] Version control.
 - [x] Foundational principles of software development.
 - [x] Project management.
-- [x] Daily driving Linux.
-- [x] Anything that can be done in the terminal will be done in the terminal.
+- [x] Daily driving linux.
+- [x] Anything that can be done in the terminal, will be done in the terminal.
 - [x] Personal security hygiene.
 - [x] Sharing knowledge and upskilling others.
 
