@@ -1,17 +1,14 @@
 ## Who Am I?
 
-I am a second year undergraduate student at Ashesi University studying Computer Science. I have been an explorer of software for years. I am specialising on system-level `code`; building **backend** and **infrastructure** software.
+I am learning how to build **backend** and **infrastructure** software.
 
 ## 🔧 What I Can Do
 
 - **🖥️ Programming languages:** Golang.
 - **🧰 Tools:** Git, Linux, Docker, Neovim, Github.
-- **🤹 Other skills:** Bash, Markdown.
-- **🫗 Archived skills:** Octave, Java, React js, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue js, Python, Firebase, Flutter, Hugo, Tailwind CSS, HTML/CSS, SQL.
-
+ 
 ## 📖 Things I am Learning About
 
-- Data structures & algorithms.
 - Database principles.
 - API design.
 - Computer networking.
@@ -37,6 +34,13 @@ I am a second year undergraduate student at Ashesi University studying Computer 
 - [x] Anything that can be done in the terminal, will be done in the terminal.
 - [x] Personal security hygiene.
 - [x] Sharing knowledge and upskilling others.
+- [x] Data structures & algorithms.
+
+## Archived
+
+- **Old blog:** https://davesaah.hashnode.dev
+- **Languages:** Octave, Java, React js, Bootstrap CSS, Flask, Julia, Javascript, jQuery, Vue js, Python, Firebase, Flutter, Hugo, Tailwind CSS, HTML/CSS, SQL.
+
 
 ## 🧮 Stats
 
