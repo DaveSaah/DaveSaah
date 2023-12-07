@@ -9,7 +9,6 @@ I am learning how to build **backend** and **infrastructure** software.
  
 ## 📖 Things I am Learning About
 
-- Database principles.
 - API design.
 - Computer networking.
 - Concurrency in distributed systems.
@@ -35,6 +34,7 @@ I am learning how to build **backend** and **infrastructure** software.
 - [x] Personal security hygiene.
 - [x] Sharing knowledge and upskilling others.
 - [x] Data structures & algorithms.
+- [x] Database principles.
 
 ## Archived
 
