@@ -4,7 +4,7 @@ I am learning how to build **backend** and **infrastructure** software.
 
 ## 🔧 What I Can Do
 
-- **🖥️ Programming languages:** Golang.
+- **🖥️ Programming languages:** Golang, SQL.
 - **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Google Cloud Console.
  
 ## 📖 Things I am Learning About
@@ -39,7 +39,7 @@ I am learning how to build **backend** and **infrastructure** software.
 ## Archived
 
 - **Old blog:** https://davesaah.hashnode.dev
-- **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS, SQL.
+- **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS.
 - **Frameworks:** Flask, Flutter, Hugo.
 - **Libraries:** React js, Bootstrap CSS, jQuery, Vue js, Tailwind CSS.
 - **Tools:** Firebase.
