@@ -1,11 +1,11 @@
-## Who Am I?
+## 🤷‍♂️ Bio?
 
 I am learning how to build **backend** and **infrastructure** software.
 
 ## 🔧 What I Can Do
 
 - **🖥️ Programming languages:** Golang, SQL.
-- **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Google Cloud Console.
+- **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Google Cloud Console, Koyeb.
  
 ## 📖 Things I am Learning About
 
@@ -36,7 +36,7 @@ I am learning how to build **backend** and **infrastructure** software.
 - [x] Data structures & algorithms.
 - [x] Database principles.
 
-## Archived
+## 📦 Archived
 
 - **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS.
 - **Frameworks:** Flask, Flutter, Hugo.
