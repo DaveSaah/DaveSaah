@@ -4,7 +4,7 @@ I am building backend and infrastructure software, cli tools, writing technical 
 
 ## 🔧 What I Can Do
 
-- **🖥️ Programming languages:** Golang, Rust.
+- **🖥️ Programming languages:** Golang, Rust, C++.
 - **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Koyeb.
 
 ## 📦 Archived
