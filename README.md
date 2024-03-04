@@ -23,3 +23,28 @@
 - [Twitter](https://twitter.com/dave_saah)
 - [LinkedIn](https://linkedin.com/in/davesaah)
 - [Wakatime](https://wakatime.com/@DaveSaah)
+
+## 🎯 Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DaveSaah&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DaveSaah&show_icons=true&bg_color=FFFFFFFF&hide_border=true&private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaveSaah&show_icons=true&private=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DaveSaah&show_icons=true&theme=dark&layout=compact&bg_color=00000000&hide_border=true&langs_count=8&private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DaveSaah&show_icons=true&layout=compact&bg_color=FFFFFFFF&hide_border=true&langs_count=8&private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveSaah&show_icons=true&layout=compact&langs_count=8&private=true" />
+</picture>
