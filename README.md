@@ -5,7 +5,7 @@
 
 ## 📦 Archived
 
-- **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS, SQL, C++.
+- **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS, SQL, C++, PHP
 - **Frameworks:** Flask, Flutter, Hugo.
 - **Libraries:** React js, Bootstrap CSS, jQuery, Vue js, Tailwind CSS.
 - **Tools:** Firebase, Google Cloud.
