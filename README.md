@@ -1,6 +1,6 @@
 ## 🔧 What I Can Do [![wakatime](https://wakatime.com/badge/user/1d450513-0859-4fa4-a5aa-402cb3ea4b38.svg)](https://wakatime.com/@1d450513-0859-4fa4-a5aa-402cb3ea4b38)
 
-- **🖥️ Programming languages:** Golang, Rust.
+- **🖥️ Programming languages:** Golang.
 - **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Koyeb.
 
 ## 📦 Archived
@@ -16,13 +16,6 @@
 - 🏗 [Testing Grounds](https://github.com/testing-region): A place for testing new technologies and languages.
 - 🪦 [Project Graveyard](https://github.com/project-graveyard): A place for abandoned personal projects
 - 🎒 [Boring School Stuff](https://github.com/boring-school-work): A place for school assignments.
-
-## 🔗 Links
-
-- [Blog](https://davesaah.hashnode.dev)
-- [Twitter](https://twitter.com/dave_saah)
-- [LinkedIn](https://linkedin.com/in/davesaah)
-- [Wakatime](https://wakatime.com/@DaveSaah)
 
 ## 🎯 Stats
 
