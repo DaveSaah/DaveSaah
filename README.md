@@ -1,6 +1,6 @@
 ## 🔧 What I Can Do [![wakatime](https://wakatime.com/badge/user/1d450513-0859-4fa4-a5aa-402cb3ea4b38.svg)](https://wakatime.com/@1d450513-0859-4fa4-a5aa-402cb3ea4b38)
 
-- **🖥️ Programming languages:** Golang.
+- **🖥️ Programming languages:** Golang, C, Rust.
 - **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Koyeb.
 
 ## 📦 Archived
