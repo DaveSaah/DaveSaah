@@ -16,6 +16,7 @@
 - 🏗 [Testing Grounds](https://github.com/testing-region): A place for testing new technologies and languages.
 - 🪦 [Project Graveyard](https://github.com/project-graveyard): A place for abandoned personal projects
 - 🎒 [Boring School Stuff](https://github.com/boring-school-work): A place for school assignments.
+- 📹 [Project Demos](https://youtube.com/@davesaah?si=K-re-fkbJmUOdpsh): A place for project demos.
 
 ## 🎯 Stats
 
