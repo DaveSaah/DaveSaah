@@ -1,11 +1,11 @@
 ## 🔧 What I Can Do [![wakatime](https://wakatime.com/badge/user/1d450513-0859-4fa4-a5aa-402cb3ea4b38.svg)](https://wakatime.com/@1d450513-0859-4fa4-a5aa-402cb3ea4b38)
 
-- **🖥️ Programming languages:** Golang, C, Rust.
-- **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Koyeb.
+- **🖥️ Programming languages:** Golang.
+- **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Make.
 
 ## 📦 Archived
 
-- **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS, SQL, C++, PHP
+- **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS, SQL, C++, PHP, C, Rust.
 - **Frameworks:** Flask, Flutter, Hugo.
 - **Libraries:** React js, Bootstrap CSS, jQuery, Vue js, Tailwind CSS.
 - **Tools:** Firebase, Google Cloud.
@@ -31,7 +31,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DaveSaah&show_icons=true&private=true" />
 </picture>
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DaveSaah&show_icons=true&theme=dark&layout=compact&bg_color=00000000&hide_border=true&langs_count=8&private=true"
     media="(prefers-color-scheme: dark)"
@@ -42,3 +42,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveSaah&show_icons=true&layout=compact&langs_count=8&private=true" />
 </picture>
+ -->
