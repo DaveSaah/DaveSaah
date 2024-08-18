@@ -8,7 +8,7 @@
 - **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS, SQL, C++, PHP, C, Rust.
 - **Frameworks:** Flask, Flutter, Hugo.
 - **Libraries:** React js, Bootstrap CSS, jQuery, Vue js, Tailwind CSS.
-- **Tools:** Firebase, Google Cloud.
+- **Tools:** Firebase, Google Cloud, DigitalOcean.
 
 ## 💼 Organisations
 
@@ -16,6 +16,7 @@
 - 🏗 [Testing Grounds](https://github.com/testing-region): A place for testing new technologies and languages.
 - 🪦 [Project Graveyard](https://github.com/project-graveyard): A place for abandoned personal projects
 - 🎒 [Boring School Stuff](https://github.com/boring-school-work): A place for school assignments.
+- 🍴 [Forks](https://github.com/davesaah-forks): A place for forks and OSS contributions for external projects.
 - 📹 [Project Demos](https://youtube.com/@davesaah?si=K-re-fkbJmUOdpsh): A place for project demos.
 
 ## 🎯 Stats
