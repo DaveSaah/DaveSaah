@@ -1,14 +1,6 @@
-## 🔧 What I Can Do [![wakatime](https://wakatime.com/badge/user/1d450513-0859-4fa4-a5aa-402cb3ea4b38.svg)](https://wakatime.com/@1d450513-0859-4fa4-a5aa-402cb3ea4b38)
+## 🔧 Building [![wakatime](https://wakatime.com/badge/user/1d450513-0859-4fa4-a5aa-402cb3ea4b38.svg)](https://wakatime.com/@1d450513-0859-4fa4-a5aa-402cb3ea4b38)
 
-- **🖥️ Programming languages:** Golang.
-- **🧰 Tools:** Git, Linux, Docker, Neovim, Github, Make.
-
-## 📦 Archived
-
-- **Languages:** Octave, Java, Julia, Javascript, Python, HTML/CSS, SQL, C++, PHP, C, Rust.
-- **Frameworks:** Flask, Flutter, Hugo.
-- **Libraries:** React js, Bootstrap CSS, jQuery, Vue js, Tailwind CSS.
-- **Tools:** Firebase, Google Cloud, DigitalOcean.
+Visit for portfolio for more information: https://davesaah.web.app
 
 ## 💼 Organisations
 
